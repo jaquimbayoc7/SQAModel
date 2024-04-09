@@ -1,6 +1,6 @@
 ﻿CREATE TABLE `facultad` (
   `idFacultad` INT(11) NOT NULL,
-  `nomFacultad` VARCHAR(225) DEFAULT NULL,
+  `nomFacultad` VARCHAR(205) DEFAULT NULL,
   PRIMARY KEY (idFacultad)
 )
 ENGINE = INNODB,
